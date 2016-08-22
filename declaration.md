@@ -7,3 +7,4 @@ Supporters of the declaration are:
 * Jono
 * Matome
 * Rowan
+* Martin
