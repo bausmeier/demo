@@ -8,3 +8,4 @@ Supporters of the declaration are:
 * Matome
 * Rowan
 * Martin
+* Lazola
