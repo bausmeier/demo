@@ -6,3 +6,4 @@ Supporters of the declaration are:
 * Nathan
 * Jono
 * Matome
+* Rowan
