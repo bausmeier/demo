@@ -5,3 +5,4 @@ Supporters of the declaration are:
 * Andrew
 * Nathan
 * Jono
+* Matome
