@@ -9,3 +9,4 @@ Supporters of the declaration are:
 * Rowan
 * Martin
 * Lazola
+* Brett
